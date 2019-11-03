@@ -11,3 +11,6 @@ if (url.indexOf(path1) != -1) {
  body = JSON.stringify(obj);
  }
 $done({body});
+
+//hostname=wallpaper.17youfang.com,
+//^https:\/\/www\.ormatch\.com\/video\/api\/ url script-response-body 
